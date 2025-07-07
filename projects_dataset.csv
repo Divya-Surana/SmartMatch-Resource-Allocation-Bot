@@ -1,0 +1,31 @@
+project_id,project_name,skills_required,duration_months,start_date,complexity,domain,location,team_size,preferred_experience
+1,Project_1,"React, TensorFlow, Node.js",7,2025-09-13,High,E-commerce,Onsite,6,5.3
+2,Project_2,"TensorFlow, NLP",10,2025-08-27,Low,E-commerce,Hybrid,6,2.1
+3,Project_3,"Docker, Node.js, Angular",6,2025-07-24,Medium,E-commerce,Remote,6,2.2
+4,Project_4,"Java, Python, Angular, SQL",7,2025-09-14,Medium,E-commerce,Hybrid,6,1.8
+5,Project_5,"SQL, Java",5,2025-12-01,High,E-commerce,Hybrid,2,1.7
+6,Project_6,"Python, Flask",5,2025-08-14,Low,Customer Support,Onsite,3,5.8
+7,Project_7,"React, NLP",7,2025-07-29,Medium,Healthcare,Onsite,4,4.4
+8,Project_8,"Java, Angular, TensorFlow, Python",6,2025-09-17,Low,Retail,Onsite,4,5.3
+9,Project_9,"AWS, Docker, SQL, Python",9,2025-11-18,Low,Retail,Remote,4,4.9
+10,Project_10,"TensorFlow, SQL, Python",6,2025-09-06,Low,Customer Support,Hybrid,2,3.0
+11,Project_11,"SQL, Docker, NLP",8,2025-11-11,High,E-commerce,Remote,2,5.0
+12,Project_12,"Node.js, Java",3,2025-11-12,Medium,Retail,Onsite,3,2.7
+13,Project_13,"Node.js, TensorFlow, NLP",6,2025-11-19,High,E-commerce,Hybrid,3,4.3
+14,Project_14,"Java, AWS, SQL, TensorFlow",10,2025-10-20,Medium,Healthcare,Hybrid,3,3.7
+15,Project_15,"TensorFlow, Flask",9,2025-10-23,Medium,E-commerce,Remote,6,4.2
+16,Project_16,"SQL, Python",9,2025-07-26,Medium,Healthcare,Onsite,2,4.4
+17,Project_17,"AWS, Angular, Docker, TensorFlow",7,2025-12-09,High,E-commerce,Remote,6,3.5
+18,Project_18,"SQL, TensorFlow",3,2025-11-19,High,Healthcare,Onsite,3,5.8
+19,Project_19,"Angular, Python, Node.js, AWS",6,2025-10-13,Medium,E-commerce,Hybrid,4,4.2
+20,Project_20,"SQL, AWS",11,2025-08-16,Medium,Customer Support,Hybrid,6,5.8
+21,Project_21,"Java, TensorFlow, Flask",12,2025-07-05,Low,Finance,Remote,3,4.5
+22,Project_22,"Flask, Python, TensorFlow",10,2025-08-02,Low,E-commerce,Remote,5,2.0
+23,Project_23,"AWS, React, Angular, Flask",10,2025-07-15,Low,Healthcare,Onsite,6,3.2
+24,Project_24,"NLP, AWS, React",10,2025-09-03,Low,Retail,Onsite,3,5.7
+25,Project_25,"TensorFlow, AWS, SQL",7,2025-10-09,Medium,Healthcare,Onsite,2,1.6
+26,Project_26,"Java, React",11,2025-12-04,Low,Finance,Onsite,4,2.7
+27,Project_27,"NLP, Angular",7,2025-09-07,Low,Retail,Hybrid,3,5.9
+28,Project_28,"Flask, NLP, React",6,2025-10-23,Medium,Retail,Hybrid,6,1.8
+29,Project_29,"Flask, Node.js, Angular",9,2025-09-20,High,Finance,Onsite,3,2.6
+30,Project_30,"AWS, Java",4,2025-08-04,High,Healthcare,Onsite,6,1.1
